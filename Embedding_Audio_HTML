@@ -1,0 +1,28 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Embedding Audio In Html</title>
+</head>
+<body>
+<h2>Here's an audio playing!!</h2>
+<audio controls>
+<source src = "michael.mp3" type = "audio/mpeg" />
+<p>Warning!! Browser does not support this file</p>
+</audio>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
