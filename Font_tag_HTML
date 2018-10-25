@@ -1,0 +1,14 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Learn The Font Tag In Html</title>
+</head>
+<body>
+<font size = "5"><p>Hello World!!</p></font>
+<font color = "green"><p>Font color example</p></font>
+<font size = "10"><p>Bigger font size</p></font>
+<font size = "10" face = "bookman old style"><p>Bigger font with style</p></font>
+</body>
+</html>
