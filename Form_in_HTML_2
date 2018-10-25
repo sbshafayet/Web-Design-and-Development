@@ -1,0 +1,72 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Tables In Html</title>
+</head>
+<body>
+<h2>Employee Details</h2>
+<p>
+First Name : <input type = "text" name = "first_name" />
+<br /><br />
+Last Name : <input type = "text" name = "last_name" />
+<br /><br />
+Designation : <input type = "text" name = "designation" />
+<br /><br />
+Gender :
+<input type = "radio" name = "gender" value = "male" />Male <input type = "radio" name = "gender" value = "female" />Female <br /><br />
+Birth Year:
+<select name = "year">
+<option value = "1995">1995</option>
+<option value = "1996">1996</option>
+<option value = "1997">1997</option>
+<option value = "1998">1998</option>
+<option value = "1999">1999</option>
+</select>
+<br /><br />
+Username : <input type = "text" name = "username" />
+<br /><br />
+Password : <input type = "password" name = "password" />
+<br /><br />
+What are your Hobbies :
+<textarea name = "hobbies"></textarea>
+<br /><br />
+How can we contact you?
+Phone
+<input type = "checkbox" name = "contact" value = "phone" />   Email
+<input type = "checkbox" name = "contact" value = "email" /> SMS
+<input type = "checkbox" name = "contact" value = "sms" />
+<br /><br />
+Upload your photo : 
+<input type = "file" name = "image" />
+<br /><br />
+<input type = "submit" name = "submit" value = "Submit Form" /> </p>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
