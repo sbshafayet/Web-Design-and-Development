@@ -1,0 +1,29 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Embedding Video In Html</title>
+</head>
+<body>
+<h2>Indian Premier League - Highlights</h2>
+<video width = "300" height = "300" controls>
+<source src = "IPL Highlights.mp4" type = "video/mp4" /> <p>Warning!! Browser does not support this file</p>
+</video>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
