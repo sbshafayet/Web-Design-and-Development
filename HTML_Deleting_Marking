@@ -1,0 +1,26 @@
+
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> HTML </title>
+	</head>
+	<body>
+	
+	<p>HTML (Hypertext Markup Language) <del>HTML (Hypertext Markup Language)</del> HTML (Hypertext Markup Language)
+		<mark>HTML (Hypertext Markup Language)</mark></p>
+	
+	<del> 400 Tk</del> 300 Tk
+	<s> 400 Tk</s> 300 Tk
+	
+	</body>
+</html>
+
+
+
+
+
+
+
+
+
