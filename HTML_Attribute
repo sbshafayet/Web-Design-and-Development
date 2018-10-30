@@ -2,15 +2,19 @@
 
 <!DOCTYPE html>
 <html>
-	<head>
-		<title> HTML </title>
-	</head>
-	<body>
+<head>
+<title> HTML </title>
+</head>
+<body>
 	
-	<p title= " This is title of web design and development "> >> Frontend developers are skilled in HTML (Hypertext Markup Language), CSS (Cascading Style Sheets) and JavaScript, as they use these programming languages to write their code scripts. Backend developers work with PHP, as well as Ruby, Python and ASP.NET. They also know how to write database queries with the help of SQL (Structured Query Language) or MySQL. </br>
-	>> Web designers have skills and experience working with such software as Photoshop, Illustrator, InDesign, CorelDRAW and others. They know how to create and edit vector images, photographs, animations and other visuals in different formats.</p>
+<p title= " This is title of web design and development " Frontend developers are skilled in HTML (Hypertext Markup Language),
+CSS (Cascading Style Sheets) and JavaScript, as they use these programming languages to write their code scripts.
+Backend developers work with PHP, as well as Ruby, Python and ASP.NET. They also know how to write database queries with the help of
+SQL (Structured Query Language) or MySQL. </br>
+Web designers have skills and experience working with such software as Photoshop, Illustrator, InDesign, CorelDRAW and others.
+They know how to create and edit vector images, photographs, animations and other visuals in different formats.</p>
 	
-	</body>
+</body>
 </html>
 
 
