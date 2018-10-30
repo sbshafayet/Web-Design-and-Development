@@ -1,0 +1,29 @@
+
+
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> HTML </title>
+	</head>
+	<body>
+	
+	<p><b> Bold Format: HTML (Hypertext Markup Language). </b></p>
+	<p><strong> Bold Format: HTML (Hypertext Markup Language).</strong></p>
+	<p> HTML <strong>(Hypertext Markup Language).</strong></p>
+	<p> HTML <strong>(Hypertext Markup <em> Language</em>).</strong></p>
+	
+	<p><em> Italic Format: HTML (Hypertext Markup Language). <em></p>
+	<p><i> Italic Format: HTML (Hypertext Markup Language) </i></p>
+	
+	<p><u> Underline: HTML (Hypertext Markup Language). </u></p>
+	
+	</body>
+</html>
+
+
+
+
+
+
+
