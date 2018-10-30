@@ -7,7 +7,7 @@
 </head>
 <body>
 	
-	<img width = "450" height = "250" src = "flower.jpg"/>
+	<img src = "flower.jpg"/>
 	<img width = "450" height = "250"src = "flowers.jpg"/>
 	<a href= "http://google.com/ "><img width = "450" height = "250" src = "flowers.jpg" alt = "This is an image about"/></a>
 	
