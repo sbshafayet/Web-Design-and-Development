@@ -2,20 +2,20 @@
 
 <!DOCTYPE html>
 <html>
-	<head>
-		<title> HTML </title>
-	</head>
-	<body>
+<head>
+<title> HTML </title>
+</head>
+<body>
 	
-	HTML<sup>(Hypertext Markup Language)</sup>
-	<br> 
-	HTML<sub>(Hypertext Markup Language)</sub>
-	<br/>
-	log<sup>2</sup>
-	<br/>
-	log<sub>2</sub>
+HTML<sup>(Hypertext Markup Language)</sup>
+<br> 
+HTML<sub>(Hypertext Markup Language)</sub>
+<br/>
+log<sup>2</sup>
+<br/>
+log<sub>2</sub>
 	
-	</body>
+</body>
 </html>
 
 
