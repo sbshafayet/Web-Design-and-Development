@@ -1,0 +1,59 @@
+
+
+All CSS Margin Properties
+
+
+Property:
+
+margin
+margin-bottom
+margin-left
+margin-right
+margin-top
+
+
+>>If the margin property has four values:
+
+margin: 10px 5px 15px 20px;
+top margin is 10px
+right margin is 5px
+bottom margin is 15px
+left margin is 20px
+
+
+
+>>If the margin property has three values:
+
+margin: 10px 5px 15px;
+top margin is 10px
+right and left margins are 5px
+bottom margin is 15px
+
+
+
+>>If the margin property has two values:
+
+margin: 10px 5px;
+top and bottom margins are 10px
+right and left margins are 5px
+
+
+
+>If the margin property has one value:
+
+margin: 10px;
+all four margins are 10px
+
+
+
+
+
+
+
+
+
+
+
+
+
+
