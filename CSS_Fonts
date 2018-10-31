@@ -1,0 +1,39 @@
+
+
+All CSS Font Properties
+
+Property:
+font
+font-family
+font-style
+font-variant
+font-weight
+
+
+
+
+font-family: "Times New Roman", Times, serif;
+font-family: Arial, Helvetica, sans-serif;
+
+font-style: normal;
+font-style: italic;
+font-style: oblique;
+
+font-size: 40px;
+font-size: 2.5em; /* 40px/16=2.5em */
+font-size: 1.875em; /* 30px/16=1.875em */
+font-size: 0.875em; /* 14px/16=0.875em */
+
+font-weight: normal;
+font-weight: lighter;
+font-weight: bold;
+font-weight: 900;
+
+font-variant: normal;
+font-variant: small-caps;
+
+ 
+
+
+
+
