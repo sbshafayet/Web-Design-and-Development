@@ -1,0 +1,121 @@
+
+
+All CSS Text Properties:
+
+Property:
+
+color
+direction
+letter-spacing
+line-height
+text-align
+text-decoration
+text-indent
+text-shadow
+text-transform
+text-overflow
+unicode-bidi
+vertical-align
+white-space
+word-spacing
+
+
+>>Text Alignment:
+text-align: center;
+text-align: left;
+text-align: right;
+
+>>Text Decoration:
+ text-decoration: none;
+ text-decoration: overline;
+ text-decoration: line-through;
+ text-decoration: underline;
+ 
+ >>Text Transformation: 
+ text-transform: uppercase;
+ text-transform: lowercase;
+ text-transform: capitalize;
+ 
+>>Letter Spacing:
+ letter-spacing: 3px;
+ letter-spacing: -3px;
+ 
+ >>Word Spacing:
+ word-spacing: 10px;
+ word-spacing: -5px;
+ 
+ >>Line Height:
+ //small
+    line-height: 0.7;
+//big
+    line-height: 1.8;
+    
+
+>>Text Direction:
+direction: rtl;
+direction: ltr;
+
+>>Text Shadow:
+text-shadow: 3px 2px red;
+
+>>Text Indent:
+text-indent: 50px;
+text-indent: -2em;
+text-indent: 30%;
+
+>>Vertical Align:
+vertical-align: baseline;
+vertical-align: text-top;
+vertical-align: text-bottom;
+vertical-align: sub;
+vertical-align: super;
+
+>>White Space:
+white-space: nowrap;
+white-space: normal;
+white-space: pre;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+img.top {
+    vertical-align: text-top;
+}
+
+img.bottom {
+    vertical-align: text-bottom;
+}
+</style>
+</head>
+<body>
+
+<p>An <img src="flower.jpg" alt="flower" width="270" height="50"> image with a default alignment.</p><br>
+
+<p>An <img class="top" src="flower.jpg" alt="flower" width="270" height="50"> image with a text-top alignment.</p><br>
+
+<p>An <img class="bottom" src="flower.jpg" alt="flower" width="270" height="50"> image with a text-bottom alignment.</p>
+
+</body>
+</html>
+
+
+
+
