@@ -1,0 +1,73 @@
+
+
+All CSS Border Properties
+
+
+Property:
+
+border
+border-bottom
+border-bottom-color
+border-bottom-style	
+border-bottom-width
+border-color
+border-left
+border-left-color
+border-left-style
+border-left-width
+border-radius
+border-right
+border-right-color
+border-right-style	
+border-right-width	
+border-style	
+border-top
+border-top-color
+border-top-style
+border-top-width
+border-width
+
+
+
+
+>>Border Style:
+dotted
+dashed
+solid
+double
+groove
+ridge
+inset
+outset
+none
+hidden
+
+border-style: dotted;
+border-style: dashed;
+border-style: solid;
+border-style: double;
+border-style: groove;
+border-style: ridge;
+border-style: inset;
+border-style: outset;
+border-style: none;
+border-style: hidden;
+border-style: dotted dashed solid double;
+
+border: 5px solid red;
+border-bottom: 6px solid red;
+border-bottom-style: solid;
+border-color: red green blue yellow;
+border-radius: 5px;
+
+               
+
+
+
+
+
+
+
+
+
+
