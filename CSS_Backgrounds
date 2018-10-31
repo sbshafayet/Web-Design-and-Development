@@ -1,0 +1,64 @@
+
+
+All CSS Background Properties
+
+
+Property:
+
+background
+background-color
+background-image
+background-repeat
+background-attachment
+background-position
+background-size	
+background-origin
+background-clip
+
+
+
+
+
+ background-image: url("img_tree.png");
+ background-repeat: no-repeat;
+ background-repeat: repeat-x;
+ background-repeat: repeat-y;
+ 
+ background-position: right top;
+ background-attachment: fixed;
+ 
+ background-origin: padding-box;
+ background-origin: border-box;
+ background-origin: content-box;
+ 
+ background-clip: border-box
+ background-clip: padding-box;
+ background-clip: content-box;
+ 
+ background-size: auto;
+ background-size: 300px 100px;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
