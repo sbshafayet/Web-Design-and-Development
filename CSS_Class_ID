@@ -1,0 +1,54 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<!-- CSS -->
+<title>Class and ID </title>			
+<link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+	
+    <p>This is paragraph</p>
+		<p class="blue bold">This is paragraph</p>
+		<p>This is paragraph</p>
+		<p class="blue bold">This is paragraph</p>
+		<p>This is paragraph</p>
+		<p class="bold">This is paragraph</p>
+		<p class="orange">This is paragraph</p>
+		<p>This is my paragraph</p>
+		<p class="blue">This is paragraph</p>
+		<p>This is paragraph</p>
+		<p>This is paragraph</p>
+		
+</body>
+</html>
+
+
+
+<style>
+
+p {
+	color:red;
+}
+.blue{
+	color:blue;
+}
+.orange{
+	color:orange;
+}
+.bold{
+	font-weight:bold
+}
+
+</style>
+
+
+
+
+
+
+
+
+
+
